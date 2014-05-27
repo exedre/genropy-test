@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<GenRoBag>
+	<environment>
+		<gnrhome value="/Users/exedre/src/genropy/genropy"/>
+	</environment>
+
+	<projects>
+		<genropy path="/Users/exedre/src/genropy/genropy/projects"/>
+		<genropy_tutorial path="/Users/exedre/src/genropy/genropy/tutorial/projects"/>
+	</projects>
+
+	<packages>
+		<genropy path="/Users/exedre/src/genropy/genropy/packages"/>
+	</packages>
+
+	<static>
+		<js>
+			<dojo_11 cdn="" path="/Users/exedre/src/genropy/genropy/dojo_libs/dojo_11"/>
+				<gnr_11 path="/Users/exedre/src/genropy/genropy/gnrjs/gnr_d11"/>
+		</js>
+	</static>
+
+	<resources>
+		<genropy path="/Users/exedre/src/genropy/genropy/resources"/>
+	</resources>
+
+	<webtools>
+		<genropy path="/Users/exedre/src/genropy/genropy/webtools"/>
+	</webtools>
+
+	<gnrdaemon hmac_key="hhxgit5ftled" host="localhost" port="40404"/>
+</GenRoBag>

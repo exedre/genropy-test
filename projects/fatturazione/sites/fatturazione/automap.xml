@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GenRoBag><sys name="System"><dbstruct path="dbstruct.py" pkg="sys" name="!!Dbstruct"></dbstruct>
+<default path="default.py" pkg="sys" name="!!Default"></default>
+<external_token path="external_token.py" pkg="sys" name="!!External_token"></external_token>
+<frameset path="frameset.py" pkg="sys" name="!!Frameset"></frameset>
+<headless path="headless.py" pkg="sys" name="!!Headless"></headless>
+<html_mixablepage path="html_mixablepage.py" pkg="sys" name="!!Html_mixablepage"></html_mixablepage>
+<index path="index.py" pkg="sys" name="!!Index"></index>
+<locked_record path="locked_record.py" pkg="sys" name="!!Locked_record"></locked_record>
+<lookuptables path="lookuptables.py" pkg="sys" name="!!Lookuptables"></lookuptables>
+<memcached_stats path="memcached_stats.py" pkg="sys" name="!!Memcached_stats"></memcached_stats>
+<message path="message.py" pkg="sys" name="!!Message"></message>
+<onering path="onering.py" pkg="sys" name="!!Onering"></onering>
+<register_explorer path="register_explorer.py" pkg="sys" name="!!Register_explorer"></register_explorer>
+<system_dashboard path="system_dashboard.py" pkg="sys" name="!!System_dashboard"></system_dashboard>
+<tableconf path="tableconf.py" pkg="sys" name="!!Tableconf"></tableconf>
+<thpage path="thpage.py" pkg="sys" name="!!Thpage"></thpage>
+<top path="top.py" pkg="sys" name="!!Top"></top></sys>
+<adm name="!!Administration"><app_preference path="app_preference.py" pkg="adm" name="!!App_preference"></app_preference>
+<htag_page path="htag_page.py" pkg="adm" name="!!Htag_page"></htag_page>
+<monitor path="monitor.py" pkg="adm" name="!!Monitor"></monitor>
+<preference path="preference.py" pkg="adm" name="!!Preference"></preference>
+<user_page path="user_page.py" pkg="adm" name="!!User_page"></user_page>
+<user_preference path="user_preference.py" pkg="adm" name="!!User_preference"></user_preference></adm>
+<glbl _T="BAG" name="glbl"></glbl>
+<fatt name="Fatt"><index path="index.py" pkg="fatt" name="!!Index"></index></fatt></GenRoBag>

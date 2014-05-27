@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<GenRoBag>
+	<packages/>
+
+	<authentication>
+		<xml_auth defaultTags="user,xml">
+			<admin pwd="pippo" tags="_DEV_,admin,user"/>
+		</xml_auth>
+	</authentication>
+</GenRoBag>
